@@ -19,31 +19,27 @@
 
 淘宝链接：[「小霸王Lite」两轮自平衡小车](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18338352539.3.23461548V1pDRV&id=614152006353)
 
-> *使用配套硬件，可以节省硬件调试的时间，腾出更多时间来研究算法和代码。*
+> *算法和代码是关健。直接使用配套硬件，能腾出更多时间来研究算法和代码。*
 
 ### 交流社区
 
 如需交流技术问题，请前往社区发帖：[https://bbs.miaowlabs.com/](https://bbs.miaowlabs.com/)
 
-> *仅开放邀请注册，[点击注册](https://bbs.miaowlabs.com/home.php?mod=invite&u=1&c=37135116e196a59a)。社区是一种很好的信息交流方式，可以存储信息，方便查找相关问题。*
+> *仅开放邀请注册，-->[点击注册](https://bbs.miaowlabs.com/home.php?mod=invite&u=1&c=37135116e196a59a)。论坛社区能存储数据，方便查找问题，是一种很好的信息交流方式。*
 
 ### 分发协议
 
 在分发本书时，请完整保留本书原链接：
 
-> [https://miaowlabs.com/book/lite](https://miaowlabs.com/book/lite)
+> [https://c.miaowlabs.com](https://c.miaowlabs.com)
 
-> *本书提供在线阅读，并提供 PDF 离线版本。推荐在线阅读，在线阅读的视频观看效果更佳。*
+> *本书支持在线阅读，并提供 PDF 离线版本。推荐在线阅读，在线阅读的视频观看效果更佳。*
 
 ### 联系我们
 
 邮箱：121349840@qq.com
 
 > *因作者能力有限，在写作过程中难免会有错漏。如发现错误，请指正。*
-
-### 排版规范
-
-本书遵循 [中文文案排版指北（简体中文版）](https://github.com/mzlogin/chinese-copywriting-guidelines) 规范。
 
 ### 版权所有
 
