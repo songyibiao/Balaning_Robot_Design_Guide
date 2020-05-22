@@ -4,8 +4,11 @@
     "description": "一本面向初学新手、内容通俗易懂、操作步骤详细的两轮自平衡小车开发实战指南。",
 	"language" : "zh-hans",
 	"styles": {
-    "website": "styles/website.css"
-    },
+		"website": "styles/website.css"
+		},
+	"pdf":{		
+		"fontSize": 14
+	},
 	"structure": {
         "readme": "README.md"
     },
@@ -18,7 +21,6 @@
 		"-search",
 		"-highlight",
 		"splitter",
-		"back-to-top-button",
 		"copy-code-button",
 		"prism",
 		"include-codeblock",
@@ -28,7 +30,10 @@
 		"popup",
 		"fontsettings",
 		"theme-comscore",
-		"multipart"
+		"toggle-chapters",
+		"multipart",
+		"search-plus",
+		"anchor-navigation-ex"
     ],
     "pluginsConfig": {
 		"theme-default": {
