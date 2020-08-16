@@ -33,7 +33,8 @@
 		"toggle-chapters",
 		"multipart",
 		"search-plus",
-		"anchor-navigation-ex"
+		"anchor-navigation-ex",
+		"simple-mind-map"
     ],
     "pluginsConfig": {
 		"theme-default": {
@@ -60,6 +61,14 @@
 		},
 		"anchor-navigation-ex": {
             "showLevel": false
+        },
+		"simple-mind-map": {
+            "type": "markdown",
+            "preset": "colorful",
+			"autoFit": true,
+			 "style": {
+              "height":  "750px"
+			  }
         }
     }
 }
