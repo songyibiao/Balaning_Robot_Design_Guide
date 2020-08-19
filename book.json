@@ -65,10 +65,7 @@
 		"simple-mind-map": {
             "type": "markdown",
             "preset": "colorful",
-			"autoFit": true,
-			 "style": {
-              "height":  "750px"
-			  }
+			"autoFit": true
         }
     }
 }
