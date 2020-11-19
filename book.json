@@ -5,7 +5,7 @@
 	"language" : "zh-hans",
 	"styles": {
 		"website": "styles/website.css"
-		},
+	},
 	"pdf":{		
 		"fontSize": 14
 	},
